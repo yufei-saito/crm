@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Beans>
+	<Bean id="AdminDao" class="yufei.store.dao.impl.AdminDaoImpl"/>
+	<Bean id="CategoryDao" class="yufei.store.dao.impl.CategoryDaoImpl"/>
+	<Bean id="OrderDao" class="yufei.store.dao.impl.OrderDaoImpl"/>
+	<Bean id="ProductDao" class="yufei.store.dao.impl.ProductDaoImpl"/>
+	<Bean id="UserDao" class="yufei.store.dao.impl.UserDaoImpl"/>
+</Beans>
